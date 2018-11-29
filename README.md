@@ -1,2 +1,2 @@
 # threens.github.io
-A redirector to a dynamic web server http://54.38.79.150:81
+A redirector to a dynamic web server http://vps613872.ovh.net:80/
